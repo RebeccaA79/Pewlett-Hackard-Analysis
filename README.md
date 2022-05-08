@@ -19,9 +19,7 @@ Based on the data analysis, it was determined that:
 
 1. There are 72,458 employees eligible for retirement. The breakdown by title is as follows:
 
-![Number of retirees by title] (Data/# of retirees by title.png)
-
-![Number of retirees by title] (Data/# of retirees by title.png)
+   ![Number of retirees by title] (Data/# of retirees by title.png)
 
 2. There are 1,549 employees eligible for the mentorship program. 
 
