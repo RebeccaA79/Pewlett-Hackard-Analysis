@@ -15,11 +15,11 @@ A series of sql queries and tables were generated off of existing HR csv files t
  
 ## Results
 
-Based on the data analysis performed, the following :
-
    [Link to retirees by title csv file] (Data/retiring_titles.csv)
    
    [Link to employees eligible for the mentorship program csv file] (Data/mentorship_eligibilty.csv)
+
+Based on the data analysis performed, the following highlights are noted:
 
 1. There are 72,458 employees eligible for retirement. The breakdown by title is as follows:
 
