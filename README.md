@@ -29,7 +29,7 @@ Based on the data analysis performed, the following highlights are noted:
 
 3. There are 1,549 employees eligible for the mentorship program. 
 
-   ![Number of employees eligible for mentorship][https://github.com/RebeccaA79/Pewlett-Hackard-Analysis/blob/a937291cb05cfad0734fd4bebb73a57f92d729d9/Data/Employees%20eligiible%20for%20mentorship%20program.png]
+   ![Number of employees eligible for mentorship](https://github.com/RebeccaA79/Pewlett-Hackard-Analysis/blob/a937291cb05cfad0734fd4bebb73a57f92d729d9/Data/Employees%20eligiible%20for%20mentorship%20program.png)
 
 4. Of the 1,549 eligible for the mentorship program, statistics on two largest retiree groups noted in item 2 above are as follows:
 
