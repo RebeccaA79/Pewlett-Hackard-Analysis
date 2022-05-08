@@ -21,6 +21,8 @@ Based on the data analysis, it was determined that:
 
 ![Number of retirees by title] (Data/# of retirees by title.png)
 
+![Number of retirees by title] (Data/# of retirees by title.png)
+
 2. There are 1,549 employees eligible for the mentorship program. 
 
 ![Number of employees eligible for mentorship] [Data/Employees eligible for mentorship program.png]
