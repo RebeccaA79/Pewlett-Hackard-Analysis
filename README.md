@@ -41,7 +41,22 @@ Based on the data analysis performed, the following highlights are noted:
 
 Utilizing the results above, two additional queries were generated to address the following questions:
  
+Links to additional tables and queries run:
 
- - How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
- - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+[Link to csv file generated to show all current employees, regardless of retirement eligibiity] (Data/current_empl_title_Dept.csv)
+
+[Link to summary by title of all current employees] (Data/current_empl_title_Dept.csv)
+
+[Link to table showing percentage of retirees to total current employee population] (Data/Retiring_employees_as_percent_total_cur_employees.png)
+
+1. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+
+If all employees eligible for retirement choose to retire, there will be 72,458 positions coming available. Management will need to determine how many of these positions need to be filled and if any positions can be combined or eliminated. With the exception of the Manager position, which is anticipated to only have 2 retirements, all remaining positions are estimated to have close to 30% of current employees retire. 
+
+2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+When comparing the counts of employees eligible for mentorship against the counts of potential open positions, there is a significant disparity in the ratios. This leads to an indication that there will not be enough qualified retirees to mentor new hires. Management will want to be proactive in the hiring process to ensure the company will maintain sufficient coverage in staff and work.
+
+[Link to ratio of open positions to retirees eligible mentorship] (Data/Ratio_Open_Positions_to_Eligiible_Mentors.png)
+
