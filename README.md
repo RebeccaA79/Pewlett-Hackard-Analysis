@@ -23,7 +23,7 @@ Based on the data analysis performed, the following highlights are noted:
 
 1. There are 72,458 employees eligible for retirement. The breakdown by title is as follows:
 
-   ![Number of retirees by title](Data/# of retirees by title.png)
+   ![Number of retirees by title](https://github.com/RebeccaA79/Pewlett-Hackard-Analysis/blob/d6f296c0c664760f714c9c43d510a887486ced40/Data/%23%20of%20retirees%20by%20title.png)
     
 2. The Senior Engineer and Senior Staff titles make up the largest percentage of eligible retirees (approximately 70% combined). Management should consider placing the biggest focus on this population through a combination of hiring and employee retention, where possible.
 
