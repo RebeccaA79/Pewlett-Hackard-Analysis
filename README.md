@@ -18,9 +18,11 @@ A series of sql queries and tables were generated off of existing HR csv files t
 Based on the data analysis, it was determined that:
 
 1. There are 72,458 employees eligible for retirement. The breakdown by title is as follows:
+
 ![Number of retirees by title] [Data/# of retirees by title.png]
 
 2. There are 1,549 employees eligible for the mentorship program. 
+
 ![Number of employees eligible for mentorship] [Data/Employees eligible for mentorship program.png]
 
 
