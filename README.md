@@ -15,14 +15,27 @@ A series of sql queries and tables were generated off of existing HR csv files t
  
 ## Results
 
-Based on the data analysis, it was determined that:
+   [Link to retirees by title csv file] (Data/retiring_titles.csv)
+   
+   [Link to employees eligible for the mentorship program csv file] (Data/mentorship_eligibilty.csv)
+
+Based on the data analysis performed, the following highlights are noted:
 
 1. There are 72,458 employees eligible for retirement. The breakdown by title is as follows:
-![Number of retirees by title] [Data/# of retirees by title.png]
 
-2. There are 1,549 employees eligible for the mentorship program. 
-![Number of employees eligible for mentorship] [Data/Employees eligible for mentorship program.png]
+   ![Number of retirees by title](Data/# of retirees by title.png)
+    
+2. The Senior Engineer and Senior Staff titles make up the largest percentage of eligible retirees (approximately 70% combined). Management should consider placing the biggest focus on this population through a combination of hiring and employee retention, where possible.
 
+3. There are 1,549 employees eligible for the mentorship program. 
+
+   ![Number of employees eligible for mentorship][Data/Employees eligible for mentorship program.png]
+
+4. Of the 1,549 eligible for the mentorship program, statistics on two largest retiree groups noted in item 2 above are as follows:
+
+   - Senior Staff make up the largest group eligible for the mentorship program , 417 employees (appropriately 27%).
+   
+   - Senior Engineers have 298 employees (approximately 19%) eligible for the mentorship program. 
 
 ## Summary
 
