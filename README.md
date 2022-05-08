@@ -58,5 +58,5 @@ If all employees eligible for retirement choose to retire, there will be 72,458 
 
 When comparing the counts of employees eligible for mentorship against the counts of potential open positions, there is a significant disparity in the ratios. This leads to an indication that there will not be enough qualified retirees to mentor new hires. Management will want to be proactive in the hiring process to ensure the company will maintain sufficient coverage in staff and work.
 
-[Link to ratio of open positions to retirees eligible mentorship] (Data/Ratio_Open_Positions_to_Eligiible_Mentors.png)
+[Link to ratio of open positions to retirees eligible mentorship] (https://github.com/RebeccaA79/Pewlett-Hackard-Analysis/blob/1486266b8376ba1d4ae67c9d8e8d0c701bd0c01d/Data/Ratio_Open_Positions_to_Eligiible_Mentors.png)
 
